@@ -1,0 +1,14 @@
+# Credenciais: NUNCA versionar
+src/secrets.py
+secrets.py
+
+# Python / IDE
+__pycache__/
+*.pyc
+.thonny/
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
